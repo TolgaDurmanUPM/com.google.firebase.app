@@ -1,9 +1,10 @@
 fileFormatVersion: 2
-guid: e2b53bacab3b4d49ab387bb73f1a75bd
+guid: f2ceb9c446ee4196b6476d4978a416b6
 labels:
 - gvh
-- gvh_version-8.9.0
-- gvhp_exportpath-Firebase/Plugins/x86_64/FirebaseCppApp-8_9_0.dll
+- gvh_targets-editor
+- gvh_version-8.10.0
+- gvhp_exportpath-Firebase/Editor/Firebase.Editor.pdb
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
@@ -59,9 +60,9 @@ PluginImporter:
       settings:
         CPU: None
     Win64:
-      enabled: 1
+      enabled: 0
       settings:
-        CPU: x86_64
+        CPU: None
     WindowsStoreApps:
       enabled: 0
       settings:
