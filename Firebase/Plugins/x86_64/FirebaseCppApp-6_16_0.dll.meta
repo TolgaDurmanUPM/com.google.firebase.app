@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: bcb7bd21b544439e98c31a367335258c
+guid: 586a6d2e02d841cd8d33fa6dd5d9b1a3
 labels:
 - gvh
-- gvh_version-6.15.2
-- gvhp_exportpath-Firebase/Plugins/x86_64/FirebaseCppApp-6_15_2.dll
+- gvh_version-6.16.0
+- gvhp_exportpath-Firebase/Plugins/x86_64/FirebaseCppApp-6_16_0.dll
 timeCreated: 1480838400
 PluginImporter:
   serializedVersion: 1
